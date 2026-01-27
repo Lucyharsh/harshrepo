@@ -1,2 +1,3 @@
 # harshrepo
-my git repo
+my first git repo
+author - shubham sarkar
